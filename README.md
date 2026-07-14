@@ -1,6 +1,6 @@
 # FUTSAFE ⚽🛡️
 
-FUTSAFE is an Android application developed to support the management, monitoring, and data analysis of the FUTSAFE injury prevention protocol for Futsal (calcio a 5). Designed as an advanced technical tool, the app facilitates on-field data collection and monitoring.
+FUTSAFE is an Android application developed to support the management, monitoring, and data analysis of the FUTSAFE injury prevention protocol for Futsal. Designed as an advanced technical tool, the app facilitates on-field data collection and monitoring.
 
 ## 📋 Description
 
