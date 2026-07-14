@@ -1,38 +1,53 @@
-# FUTSAFE ⚽🛡️
+FUTSAFE ⚽🛡️
+FUTSAFE is an Android application developed to support the management, monitoring, and data analysis of the FUTSAFE injury prevention protocol for Futsal. Designed as an advanced technical tool, the app facilitates on-field data collection and monitoring.
 
-FUTSAFE è un'applicazione Android sviluppata per supportare la gestione, il monitoraggio e l'analisi dati del protocollo di prevenzione degli infortuni FUTSAFE per il Calcio a 5. Progettata come strumento tecnico avanzato, l'app facilita la raccolta dati sul campo e il loro monitoraggio.
+📋 Description
+The application serves as a portable platform for athletic trainers and sport scientists for monitoring FUTSAL players. Structured as a WebView application, FUTSAFE ensures a responsive and accessible interface directly during training sessions, simplifying comparative statistical analyses and the calculation of performance metrics.
 
-## 📋 Descrizione
+✨ Key Features
+Protocol Monitoring: Dedicated tools for assessing and reducing the risk of injuries specific to the futsal performance model.
 
-L'applicazione funge da piattaforma portatile per preparatori atletici e sport scientist per il monitoraggio dei giocatori di FUTSAL. Strutturata come applicazione WebView, FUTSAFE garantisce un'interfaccia reattiva e accessibile direttamente durante le sedute di allenamento, semplificando le analisi statistiche comparative e il calcolo delle metriche della performance.
+On-Field Data Analysis: Optimized interface for rapid data entry, easily shareable via an auto-generated Excel file.
 
-## ✨ Funzionalità Principali
+Mobile-First Architecture: WebView wrapper (based on local source files within the assets/index.html folder) to ensure a lightweight, smooth experience and the ability to manage modern UIs via web technologies.
 
-*   **Monitoraggio Protocollo:** Strumenti dedicati alla valutazione e riduzione del rischio di infortuni specifici per il modello prestativo del calcio a 5.
-*   **Analisi Dati da Campo:** Interfaccia ottimizzata per l'inserimento rapido dei dati, facilmente condivisibili tramite file excel autogenerato.
-*   **Architettura Mobile-First:** Wrapper WebView (basato su file sorgenti locali all'interno della cartella `assets/index.html`) per garantire leggerezza, fluidità e la possibilità di gestire UI moderne tramite tecnologie web.
-*   **Supporto alla Ricerca:** Struttura pensata per elaborare e conservare metriche precise, ideale per finalità di ricerca accademica e monitoraggio a lungo termine.
+Research Support: A framework designed to process and store precise metrics, ideal for academic research purposes and long-term monitoring.
 
-## 🛠️ Struttura e Tecnologie Utilizzate
+🛠️ Structure and Technologies Used
+Android SDK: Native application framework.
 
-*   **Android SDK:** Framework nativo dell'applicazione.
-*   **Componenti Core:** `WebView`, `classes.dex`, `AndroidManifest.xml`
-*   **Web Technologies (Assets):** Frontend nativo HTML/CSS/JS integrato direttamente nell'APK.
-*   **Ambiente di Sviluppo:** Android Studio.
+Core Components: WebView, classes.dex, AndroidManifest.xml
 
-## 🚀 Installazione ed Esecuzione
+Web Technologies (Assets): Native HTML/CSS/JS frontend embedded directly into the APK.
 
-1. Clona questo repository sul tuo ambiente locale:
-   ```bash
-   git clone https://github.com/tuo-username/futsafe.git
-   ```
-   2. Oppure scarica semplicemente l'apk dalla cartella!
-   3. Ovviamente devi autorizzare le fonti sconosciute, ma non preoccuparti, il tuo smartphone scansionerà ugualmente l'app
+Development Environment: Android Studio.
 
-## 👨‍💻 Autore
+🚀 Installation and Setup
+Clone this repository to your local environment:
 
-**Davide Palmieri**  
-*Sport Scientist & Preparatore Atletico | Università degli Studi di Torino*
+Bash
+git clone https://github.com/your-username/futsafe.git
+Or simply download the APK from the folder!
 
----
-*Applicazione sviluppata nell'ambito della ricerca applicata alle scienze motorie e all'ottimizzazione della prevenzione nel futsal.*
+Of course, you must allow installation from unknown sources, but don't worry, your smartphone will still scan the app.
+
+👨‍💻 Author
+Davide Palmieri
+
+Sport Scientist & Athletic Trainer | University of Turin
+
+Application developed as part of applied research in sports sciences and injury prevention optimization in futsal.
+
+📄 License and Commercial Use
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
+
+You are free to download, study, modify, and use FUTSAFE for:
+
+Personal use and study
+
+Academic research projects (non-profit)
+
+Commercial use is strictly prohibited without explicit authorization.
+This includes, but is not limited to: selling the app, integrating the code into paid products, rebranding for professional sports clubs, or using it to provide paid services.
+
+To request a commercial license, partnership, or for use in a professional environment, please contact me directly davide.palmieri@protonmail.ch
