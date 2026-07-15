@@ -1,6 +1,6 @@
 # FUTSAFE ⚽🛡️
 
-FUTSAFE is an Android application developed to support the management, monitoring, and data analysis of the FUTSAFE injury prevention protocol for Futsal. Designed as an advanced technical tool, the app facilitates on-field data collection and monitoring.
+FUTSAFE is an Android/iOS/PC app developed to support the management, monitoring, and data analysis of the FUTSAFE injury prevention protocol for Futsal. Designed as an advanced technical tool, the app facilitates on-field data collection and monitoring.
 
 ## 📋 Description
 
@@ -26,8 +26,8 @@ The application serves as a portable platform for athletic trainers and sport sc
    ```bash
    git clone https://github.com/your-username/futsafe.git
    ```
-   2. Or simply download the APK from the folder!
-   3. Of course, you must allow installation from unknown sources, but don't worry, your smartphone will still scan the app.
+   2. Or simply download the APK/HTML from the folder!
+   3. Of course, you must allow installation from unknown sources for the APK version, but don't worry, your device will still scan the app.
 
 ## 👨‍💻 Author
 
